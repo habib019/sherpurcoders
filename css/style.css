@@ -1,0 +1,63 @@
+/*start top part*/
+.top_com_name{
+    color:rgb(255, 238, 0);
+    font-size:36px;
+}
+/*end top part*/
+/* start modal part*/
+.modal{
+    background-color: rgba(255, 254, 254, 0.452);
+}
+.modal-header,.modal-footer{
+    background-color: rgba(97, 14, 14, 0.698);
+    color: rgb(255, 255, 255);
+}
+.modal-header:hover, .modal-footer:hover{
+    background-color: rgba(255, 255, 255, 0.76);
+    color: rgb(0, 0, 0);
+    transition: .4s;
+}
+/*end modal part*/
+/*start carousel*/
+.Slider_image{
+    width:100%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+/*end carousel*/
+
+/*start middle part*/
+.town{
+    width: 40%;
+    float:left;
+    border-radius: 50%;
+}
+/*end middle part*/
+/*team*/
+.teammate{
+    border-radius: 50%;
+}
+.teammate:hover{
+    
+border: 2px solid royalblue;
+    transition: .3s;
+}
+/*team*/
+
+.iframwidth{
+    width: 100%;
+    height: auto;
+}
+.iframwidth:hover{
+    border: 2px solid black;
+    transition: .2s;
+}
+marquee{
+    padding: 10px;
+    background-color: #198754;
+    color: cornsilk;
+}
+.col-auto a{
+    text-decoration: none;
+}
